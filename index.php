@@ -38,7 +38,7 @@ session_start();
             <div class="container header-wrapper">
                 <h1 class="logo"><a href="sunhotel/index.html"><img src="sunhotel/img/logo.png"></a></h1>
                 <ul>
-                    <li><a  href="sunhotel/index.html">Начало</a></li>
+                    <li><a  href="sunhotel/index.html">START</a></li>
                     <li><a href="sunhotel/rooms.html">Настаняване</a></li>
                     <li><a class="active" href="index.php">Резервация</a></li>
                     <li><a href="sunhotel/about.html">За хотела</a></li>
